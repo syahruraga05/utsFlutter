@@ -1,16 +1,13 @@
-# uts3
+# **UTS Pemrograman Mobile**
+  ---------------
+|Nama			|Kelas		|NIM		|
+|-----			|-----		|-----		|
+|Syahru	Raga Ramdhani	|TI.20.A.2	|312010354	|
 
-A new Flutter project.
+## **Tampilan Login Page**
+![Gambar](/gambar/Capture1.PNG)
 
-## Getting Started
+</br>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **Tampilan Setelah Login**
+![Gambar](/gambar/Capture2.PNG)
